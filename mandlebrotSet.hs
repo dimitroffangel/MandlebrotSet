@@ -27,7 +27,7 @@ leftSideMax = -2
 rightSideMax = 2
 upSideMax = 1
 downSideMax = -1
-estimationMark = 0.0225
+estimationMark = 0.019
 maximumNumberOfIterations = 50
 
 epsilon = 0.0001
